@@ -1,10 +1,7 @@
 //
 //  AppDelegate.swift
 //  NumberConverter-iOS
-//
-//  Created by Admin on 2017-04-10.
-//  Copyright © 2017 Gilbert Lam. All rights reserved.
-//
+
 
 import UIKit
 
